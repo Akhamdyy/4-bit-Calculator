@@ -23,7 +23,7 @@ This project implements a 2-bit ALU (Arithmetic Logic Unit) using [Logisim](http
 
 ## File
 
-- `aae34b24-3aab-4675-9176-18ec6cc48b8d.circ`: Logisim circuit file for the ALU
+- Logisim circuit files for the full projects are found on this repository.
 
 ## Requirements
 
